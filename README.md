@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KnightCheng4
-- 👀 I’m interested in coding,gym,music,game
+- 👀 I’m interested in coding, gym, music, gaming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 1127044929@qq.com
